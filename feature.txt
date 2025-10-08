@@ -1,0 +1,6 @@
+Feature A - Mô tả
+- Cho phép người dùng nhập kế hoạch học theo tuần.
+- Lưu dữ liệu vào file trong thư mục docs/.
+- Hiển thị thống kê số ngày đã hoàn thành.
+- Cảnh báo khi bỏ lỡ mục tiêu trong ngày.
+- Xuất báo cáo nhanh ra README.
