@@ -14,3 +14,9 @@ Kỹ năng
 - Git/GitHub cơ bản.
 - HTML/CSS/JS.
 - Làm việc nhóm & giao tiếp.
+
+- Tuần 1: Ôn Git (branch, PR).
+- Tuần 2: HTML/CSS nâng cao.
+- Tuần 3: JavaScript + DOM.
+- Tuần 4: React cơ bản.
+- Tuần 5: Mini project.
